@@ -1,3 +1,3 @@
 # Simulación
 
-Los archivos en este repositorio son utlizados en el curs de Simulación MIIIO/DIIIO de la UAI.
+Los archivos en este repositorio son utlizados en el curso de Simulación MIIIO/DIIIO de la UAI.
